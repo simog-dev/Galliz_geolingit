@@ -1,0 +1,1 @@
+# galliz_geolingit_vocabularies
