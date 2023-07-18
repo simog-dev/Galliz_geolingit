@@ -1,1 +1,1 @@
-# galliz_geolingit_vocabularies
+# Galliz_geolingit -> To write
